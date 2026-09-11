@@ -561,10 +561,10 @@
 
             <div class="grid grid-cols-1 gap-6 md:grid-cols-3">
                 <x-testimonial-card
-                    photo="images/products/graphic-shirt.jpg"
-                    name="Marco Reyes"
+                    photo="images/testimonials/jordan.jpg"
+                    name="Jordan Noriel"
                     position="Student"
-                    review="The shirt design feels different from the usual basics. It is comfortable and easy to pair with my daily outfits."
+                    review="Sobrang solid ng mga clothing dito."
                 />
 
                 <x-testimonial-card
