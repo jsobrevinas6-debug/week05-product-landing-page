@@ -13,11 +13,8 @@
 - `screenshots/testimonials-section.png`
 - `screenshots/footer-section.png`
 - `screenshots/blade-components-folder.png`
+- `screenshots/github-repository.png`
 - `documentation/before-design.png`
 - `documentation/after-design.png`
 
-## Pending Until GitHub Step
-
-- `screenshots/github-repository.png`
-
-The GitHub repository screenshot should be captured after the project is pushed to a public GitHub repository.
+All required local and repository screenshots have been captured.
