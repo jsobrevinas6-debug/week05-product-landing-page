@@ -568,10 +568,10 @@
                 />
 
                 <x-testimonial-card
-                    photo="images/products/earrings-gold.jpg"
-                    name="Alyssa Mendoza"
+                    photo="images/testimonials/edmar.jpg"
+                    name="John Edmar"
                     position="Local Customer"
-                    review="I like that the accessories are simple but still add character. The pieces feel worth it for the price."
+                    review="solid hikaw mo cuh"
                 />
 
                 <x-testimonial-card
