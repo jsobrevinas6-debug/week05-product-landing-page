@@ -575,10 +575,10 @@
                 />
 
                 <x-testimonial-card
-                    photo="images/products/slides.jpg"
-                    name="Jerome Santos"
+                    photo="images/testimonials/neil-ivan.jpg"
+                    name="Neil Ivan"
                     position="Streetwear Buyer"
-                    review="D' Real Z gives local buyers more options without needing to order from far away. The style fits the community."
+                    review="solid talaga kumuha dito pag chrome hearts enjoy ka"
                 />
             </div>
         </div>
